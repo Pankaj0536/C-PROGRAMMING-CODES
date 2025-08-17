@@ -13,10 +13,14 @@ void swap(int *a, int *b) // parameters are pointer will points to the address o
 int main()
 {
   int a = 13, b = 5;
+
   printf("Before swapping : \n");
-  printf("The value of a and b are %d and %d respectively \n", a, b);
+  printf("a =  %d \nb = %d \n", a, b);
+
   swap(&a, &b); // passed address of a and b
+
   printf("After  swapping : \n");
-  printf("The value of a and b are %d and %d respectively \n", a, b);
+  printf("a =  %d \nb = %d \n", a, b);
+  
   return 0;
 }
