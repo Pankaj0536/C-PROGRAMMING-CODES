@@ -1,4 +1,4 @@
-// Program to implement pointer to pointer
+// Program to implement pointer to pointer type 
 #include <stdio.h>
 int main()
 {
