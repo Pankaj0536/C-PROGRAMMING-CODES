@@ -1,0 +1,12 @@
+/* Sierpinski Triangle (Fractal-like)
+
+        *        
+       * *       
+      *   *      
+     * * * *     
+    *       *    
+   * *     * *   
+  *   *   *   *  
+ * * * * * * * * 
+ 
+ */
