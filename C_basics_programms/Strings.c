@@ -8,7 +8,7 @@ int main()
     /* 1) Function to find the length of given string using strlen()*/
     char string[] = "Namaste India!";
     printf("The length of the string %s is %d\n",string , strlen(string));
-
+  
     /* 2) Function to copy one string to another using strcpy()*/
     char source[] = "Password";
     char destination[20];
