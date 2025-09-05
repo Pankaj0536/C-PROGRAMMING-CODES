@@ -1,0 +1,15 @@
+site_name: C-PROGRAMMING-CODES
+site_url: https://Pankaj0536.github.io/C-PROGRAMMING-CODES/
+repo_url: https://github.com/Pankaj0536/C-PROGRAMMING-CODES
+repo_name: GitHub
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - C Basics: basic.md
+  - C Exercises: excercise.md
+  - C Patterns: patterns.md
+  - C Projects: projects.md
+  - C Advanced: advanced.md
