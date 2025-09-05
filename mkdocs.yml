@@ -4,7 +4,7 @@ repo_url: https://github.com/Pankaj0536/C-PROGRAMMING-CODES
 repo_name: GitHub
 
 theme:
-  name: material
+  name: dracula
 
 nav:
   - Home: index.md
